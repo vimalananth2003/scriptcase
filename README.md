@@ -57,4 +57,4 @@ The page includes:
 
 MCA Graduate | Front-End Developer
 
-GitHub: https://github.com/your-username
+GitHub: https://vimalananth2003.github.io/scriptcase/
